@@ -1,0 +1,3 @@
+[submodule "io/LED-Segment-ASCII"]
+	path = io/LED-Segment-ASCII
+	url = https://github.com/dmadison/LED-Segment-ASCII.git
